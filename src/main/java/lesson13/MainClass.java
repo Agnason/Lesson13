@@ -1,4 +1,4 @@
-package Lesson13;
+package lesson13;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -6,8 +6,6 @@ import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.CyclicBarrier;
 import java.util.concurrent.Semaphore;
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantLock;
 
 public class MainClass {
     public static final int CARS_COUNT = 4;
